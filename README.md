@@ -4,6 +4,10 @@
 [![twitter-saninyurii](https://img.shields.io/twitter/follow/saninyurii?style=social)](https://twitter.com/SaninYurii)
 [![youtube-channel-views](https://img.shields.io/youtube/channel/views/UCLN2EvGxtnucEdrI21PmJZg?style=social)](https://www.youtube.com/channel/UCLN2EvGxtnucEdrI21PmJZg)
 
+### write-ups
+
+- [Exploiting Server-Side rasterization (svg2raster-cheatsheet)](https://github.com/yuriisanin/svg2raster-cheatsheet)
+
 ### CVEs
 
 | CVE | Product | CWE | Severity |
