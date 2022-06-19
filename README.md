@@ -28,8 +28,9 @@
 | [CVE-2020-15823](https://nvd.nist.gov/vuln/detail/CVE-2020-15823) | JetBrains YouTrack | CWE-918 | 7.5 / High |
 | [CVE-2020-15822](https://nvd.nist.gov/vuln/detail/CVE-2020-15822) | JetBrains YouTrack | CWE-918 | 7.3 / High |
 
-### Findings
-
+<details>
+<summary>Findings (9)</summary>
+  
 | Name | Product | CWE | Severity |
 | ---- | ------- | --- | -------- |
 | Disclosure of built-in OAuth2 connectors' secrets. (TCC-346) | JetBrains TeamCity (Cloud) | CWE-522 | High |
@@ -40,3 +41,5 @@
 | JWT token takeover using a open redirect misconfiguration | JetBrains Datalore | CWE-601 | High |
 | Path Traversal allows local file reading | JetBrains Marketplace | CWE-22 | High |
 | Blind Server-Side Request Forgery (SSRF) via calendar import | JetBrains Space | CWE-918 | Medium |
+
+</details>
