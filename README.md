@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![linkedin-yurii-sanin](https://img.shields.io/badge/Yurii%20Sanin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yuriisanin)](https://www.linkedin.com/in/yuriisanin)
+[![GitHub followers](https://img.shields.io/github/followers/yuriisanin?style=social)](https://github.com/yuriisanin)
 [![twitter-saninyurii](https://img.shields.io/twitter/follow/saninyurii?style=social)](https://twitter.com/SaninYurii)
 [![youtube-channel-views](https://img.shields.io/youtube/channel/views/UCLN2EvGxtnucEdrI21PmJZg?style=social)](https://www.youtube.com/channel/UCLN2EvGxtnucEdrI21PmJZg)
 
