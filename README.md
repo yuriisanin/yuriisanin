@@ -13,6 +13,7 @@
 
 | CVE | Product | CWE | Severity |
 | --- | ------- | --- | -------- |
+| [CVE-2022-34894](https://nvd.nist.gov/vuln/detail/CVE-2022-34894) | JetBrains Hub | CWE-284 | 5.3 / Medium |
 | [CVE-2022-25262](https://nvd.nist.gov/vuln/detail/CVE-2022-25262) | JetBrains Hub | CWE-287 | 9.8 / Critical |
 | [CVE-2022-25260](https://nvd.nist.gov/vuln/detail/CVE-2022-25260) | JetBrains Hub | CWE-918 | 9.1 / Critical |
 | [CVE-2022-25259](https://nvd.nist.gov/vuln/detail/CVE-2022-25259) | JetBrains Hub | CWE-79 | 6.1 / Medium |
