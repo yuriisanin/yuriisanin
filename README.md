@@ -5,9 +5,28 @@
 [![twitter-saninyurii](https://img.shields.io/twitter/follow/saninyurii?style=social)](https://twitter.com/SaninYurii)
 [![youtube-channel-views](https://img.shields.io/youtube/channel/views/UCLN2EvGxtnucEdrI21PmJZg?style=social)](https://www.youtube.com/channel/UCLN2EvGxtnucEdrI21PmJZg)
 
-### write-ups
+<details>
+<summary>Cheatsheets (1)</summary>
 
 - [Exploiting Server-Side rasterization (svg2raster-cheatsheet)](https://github.com/yuriisanin/svg2raster-cheatsheet)
+
+</details>
+
+<details>
+<summary>Findings (9)</summary>
+  
+| Name | Product | CWE | Severity |
+| ---- | ------- | --- | -------- |
+| Disclosure of built-in OAuth2 connectors' secrets. (TCC-346) | JetBrains TeamCity (Cloud) | CWE-522 | High |
+| Session takeover via OAuth client manipulation. (TCC-347, TCC-349, TCC-351) | JetBrains TeamCity (Cloud) | CWE-345 | High |
+| Session takeover using open redirect misconfiguration. (TCC-348) | JetBrains TeamCity (Cloud) | CWE-601 | High |
+| VCS credentials disclosure via repository URL manipulation. (TCC-355, TCC-358) | JetBrains TeamCity (Cloud) | CWE-522 | Medium |
+| Session takeover using an open redirect in OAuth integration | JetBrains TeamCity (Cloud) | CEW-601 | High |
+| JWT token takeover using a open redirect misconfiguration | JetBrains Datalore | CWE-601 | High |
+| Path Traversal allows local file reading | JetBrains Marketplace | CWE-22 | High |
+| Blind Server-Side Request Forgery (SSRF) via calendar import | JetBrains Space | CWE-918 | Medium |
+
+</details>
 
 ### CVEs
 
@@ -29,19 +48,3 @@
 | [CVE-2020-24618](https://nvd.nist.gov/vuln/detail/CVE-2020-24618) | JetBrains YouTrack | CWE-639 | 6.5 / Medium |
 | [CVE-2020-15823](https://nvd.nist.gov/vuln/detail/CVE-2020-15823) | JetBrains YouTrack | CWE-918 | 7.5 / High |
 | [CVE-2020-15822](https://nvd.nist.gov/vuln/detail/CVE-2020-15822) | JetBrains YouTrack | CWE-918 | 7.3 / High |
-
-<details>
-<summary>Findings (9)</summary>
-  
-| Name | Product | CWE | Severity |
-| ---- | ------- | --- | -------- |
-| Disclosure of built-in OAuth2 connectors' secrets. (TCC-346) | JetBrains TeamCity (Cloud) | CWE-522 | High |
-| Session takeover via OAuth client manipulation. (TCC-347, TCC-349, TCC-351) | JetBrains TeamCity (Cloud) | CWE-345 | High |
-| Session takeover using open redirect misconfiguration. (TCC-348) | JetBrains TeamCity (Cloud) | CWE-601 | High |
-| VCS credentials disclosure via repository URL manipulation. (TCC-355, TCC-358) | JetBrains TeamCity (Cloud) | CWE-522 | Medium |
-| Session takeover using an open redirect in OAuth integration | JetBrains TeamCity (Cloud) | CEW-601 | High |
-| JWT token takeover using a open redirect misconfiguration | JetBrains Datalore | CWE-601 | High |
-| Path Traversal allows local file reading | JetBrains Marketplace | CWE-22 | High |
-| Blind Server-Side Request Forgery (SSRF) via calendar import | JetBrains Space | CWE-918 | Medium |
-
-</details>
