@@ -28,7 +28,8 @@
 
 </details>
 
-### CVEs
+<details>
+<summary>CVEs (16)</summary>
 
 | CVE | Product | CWE | Severity |
 | --- | ------- | --- | -------- |
@@ -48,3 +49,5 @@
 | [CVE-2020-24618](https://nvd.nist.gov/vuln/detail/CVE-2020-24618) | JetBrains YouTrack | CWE-639 | 6.5 / Medium |
 | [CVE-2020-15823](https://nvd.nist.gov/vuln/detail/CVE-2020-15823) | JetBrains YouTrack | CWE-918 | 7.5 / High |
 | [CVE-2020-15822](https://nvd.nist.gov/vuln/detail/CVE-2020-15822) | JetBrains YouTrack | CWE-918 | 7.3 / High |
+
+</details>
