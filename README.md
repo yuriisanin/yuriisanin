@@ -34,8 +34,8 @@
 | CVE | Product | CWE | Severity |
 | --- | ------- | --- | -------- |
 | [CVE-2022-45771](https://nvd.nist.gov/vuln/detail/CVE-2022-45771) | [PwnDoc](https://github.com/pwndoc/pwndoc) | CWE-? | 8.8 / High |
-| [CVE-2022-45026](https://nvd.nist.gov/vuln/detail/CVE-2022-45026) | [MPE](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) | CWE-78 | High |
-| [CVE-2022-45025](https://nvd.nist.gov/vuln/detail/CVE-2022-45025) | [MPE](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) | CWE-78 | High |
+| [CVE-2022-45026](https://nvd.nist.gov/vuln/detail/CVE-2022-45026) | [MPE](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) | CWE-78 | 9.8 / Critical |
+| [CVE-2022-45025](https://nvd.nist.gov/vuln/detail/CVE-2022-45025) | [MPE](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) | CWE-78 | 9.8 / Critical |
 | [CVE-2022-34894](https://nvd.nist.gov/vuln/detail/CVE-2022-34894) | JetBrains Hub | CWE-284 | 5.3 / Medium |
 | [CVE-2022-25262](https://nvd.nist.gov/vuln/detail/CVE-2022-25262) | JetBrains Hub | CWE-287 | 9.8 / Critical |
 | [CVE-2022-25260](https://nvd.nist.gov/vuln/detail/CVE-2022-25260) | JetBrains Hub | CWE-918 | 9.1 / Critical |
